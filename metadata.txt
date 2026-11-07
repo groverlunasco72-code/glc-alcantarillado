@@ -1,0 +1,17 @@
+[general]
+name=GLC Alcantarillado
+email=groverlunasco72@gmail.com
+author=Grover Lunasco Colque
+qgisMinimumVersion=3.0
+description=Plugin para verificación de redes de alcantarillado y generación de cámaras
+about=Herramienta profesional para diseño de alcantarillado. Incluye verificación de redes y generación de cámaras. Contacto: 76490688.
+version=1.0
+repository=https://github.com/groverlunasco72-code/glc-alcantarillado
+tracker=https://github.com/groverlunasco72-code/glc-alcantarillado/issues
+homepage=https://github.com/groverlunasco72-code/glc-alcantarillado
+icon=icon.png
+category=Vector
+tags=alcantarillado,redes,saneamiento,cámaras,verificación
+hasProcessingProvider=False
+experimental=False
+deprecated=False
